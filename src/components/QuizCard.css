@@ -1,0 +1,16 @@
+/* QuizCard.css */
+.quiz-card {
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    padding: 20px;
+    margin: auto;
+    width: fit-content;
+    text-align: center;
+}
+
+.option {
+    margin: 10px 0;
+}
+
+/* You can add more styles as needed */
